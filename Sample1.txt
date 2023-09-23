@@ -1,1 +1,3 @@
 This is sample 1
+
+Git Revert commit 1.
