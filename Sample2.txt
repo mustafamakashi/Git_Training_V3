@@ -1,3 +1,4 @@
 This is sample 2
 
 Git revert commit 2
+This is Camparison lecture change in file 2
