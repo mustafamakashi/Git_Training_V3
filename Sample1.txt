@@ -6,3 +6,4 @@ Git has been designed to support branching and tagging as first-class citizens (
 Git Revert commit 1.
 This is Camparison lecture
 
+This is Stash lecture, Change in File 1
